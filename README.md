@@ -1,4 +1,4 @@
-# anylanguagepdftoAudiConvertor
+# anylanguagepdftoAudioConvertor
 
 
 > Convert any language PDF into an audiobook with optional translation, OCR support, and local AI-powered Q&A
