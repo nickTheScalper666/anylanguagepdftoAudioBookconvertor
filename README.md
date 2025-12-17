@@ -238,6 +238,3 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 - [ChromaDB](https://www.trychroma.com/) - Vector database
 - [OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF) - PDF OCR
 
-## 📞 Support
-
-For issues and questions, please open an issue on GitHub.
