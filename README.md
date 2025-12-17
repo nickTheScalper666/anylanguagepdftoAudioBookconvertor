@@ -47,7 +47,7 @@ ocrmypdf --version
 > **Note**: OCRmyPDF includes Tesseract. On macOS, it installs automatically via Homebrew. You can still convert text PDFs without OCR installed.
 
 #### 4. Piper (TTS engine)
-Install from [github.com/rhasspy/piper](https://github.com/rhasspy/piper)
+Install from [github.com/rhasspy/piper](https://github.com/rhasspy/piper). Download for one for each language you want.
 
 ```bash
 # Verify installation (try both)
