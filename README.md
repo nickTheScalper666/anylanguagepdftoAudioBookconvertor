@@ -227,10 +227,6 @@ The NLLB-200 model supports over 200 languages. Common codes:
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## 📄 License
-
-[Your License Here]
-
 ## 🙏 Acknowledgments
 
 - [Piper](https://github.com/rhasspy/piper) - High-quality TTS
